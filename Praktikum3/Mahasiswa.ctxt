@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Mahasiswa
+comment1.params=
+comment1.target=java.lang.String\ getNamaApp()
+comment2.params=nama
+comment2.target=void\ tambahData(java.lang.String)
+comment3.params=
+comment3.target=void\ tampilData()
+comment4.params=nomor
+comment4.target=boolean\ nomorValid(int)
+comment5.params=nomor\ nama
+comment5.target=void\ ubahData(int,\ java.lang.String)
+comment6.params=nomor
+comment6.target=void\ hapusData(int)
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8
